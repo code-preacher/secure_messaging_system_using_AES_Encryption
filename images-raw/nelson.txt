@@ -1,0 +1,17 @@
+nelson
+Ochikul@7070
+sms
+
+id15238497_sms
+id15238497_nelson
+
+
+<?php
+define('DB_SERVER', 'localhost');
+define('DB_NAME', 'dilpewza_dopatech');
+define('DB_USER', 'dilpewza_dopatech');
+define('DB_PASSWORD', '123456dopatech');
+
+?>
+
+https://dilproperty.com/sms/
